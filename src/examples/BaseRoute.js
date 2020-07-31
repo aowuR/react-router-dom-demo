@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import {
+    //as的作用为将HashRouter重命名为Router,这样的好处是在反复测试HashRouter和BrowserRouter时,可以免去组件修改
     BrowserRouter as Router,
     Switch,
     Route,

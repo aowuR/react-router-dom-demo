@@ -1,10 +1,11 @@
 import React from 'react';
-import BaseRoute from './examples/BaseRoute'
+import BaseRoute from './examples/BaseRoute';
+import UrlParameters from './examples/UrlParameters'
 
 function App() {
   return (
     <div>
-      <BaseRoute />
+      <UrlParameters />
     </div>
   );
 }
