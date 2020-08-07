@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.bg_color_blue{
+  background-color: skyblue;
+}
